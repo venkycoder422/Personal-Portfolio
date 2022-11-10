@@ -4,7 +4,7 @@ import blog2 from "../assets/png/blog2.png";
 export const blogData = [
   {
     id: 1,
-    title: "Is is ocean or hell",
+    title: "Is it ocean or hell",
     description:
       "In this blog I wrote about how the aqua animals and birds was affected by the pollution",
     date: "Jun, 2022",
