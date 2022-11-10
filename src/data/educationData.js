@@ -4,14 +4,14 @@ export const educationData = [
     institution: "Masai School",
     course: "Full Stack Web Development",
     startYear: "2021",
-    endYear: "present",
+    endYear: "2022",
   },
   {
     id: 2,
-    institution: "Sri Sai Baba National Degree College",
-    course: "Bachelor of Business Administration",
-    startYear: "2018",
-    endYear: "2021",
+    institution: " Sri Venkateshware Degree College",
+    course: "Bachelor of Science",
+    startYear: "2019",
+    endYear: "2022",
   },
 ];
  

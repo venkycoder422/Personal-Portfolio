@@ -14,7 +14,7 @@ import {
   FaLinkedin,
   FaGithub,
   FaYoutube,
-  // FaBlogger,
+  FaBlogger,
   FaMedium,
 } from "react-icons/fa";
 
@@ -113,9 +113,9 @@ function Landing() {
                 />
               </a>
             )}
-            {socialsData.medium && (
-              <a href={socialsData.medium} target="_blank" rel="noreferrer">
-                <FaMedium
+            {socialsData.blogger && (
+              <a href={socialsData.blogger} target="_blank" rel="noreferrer">
+                <FaBlogger
                   className="landing--social"
                   style={{ color: theme.secondary }}
                   aria-label="Blogger"
@@ -168,8 +168,8 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href={`/Renuka-Prasad-resume.pdf`}
-                  download="Renuka_prasad_resume.pdf"
+                  href={`https://drive.google.com/file/d/1K9U8XbWRd-W07ENFlpfTnAw3k-kkSfMA/view?usp=share_link`}
+                  download="Venkatesulu_resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >

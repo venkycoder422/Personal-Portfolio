@@ -1,23 +1,23 @@
-import udemy from "../assets/png/udemy1.jpeg";
-import udemy3 from "../assets/png/udemy3.png";
+import blog1 from "../assets/png/blog1.png";
+import blog2 from "../assets/png/blog2.png";
 
 export const blogData = [
   {
     id: 1,
-    title: "Udemy Visual Clone",
+    title: "Is is ocean or hell",
     description:
-      "A visual replica of the original udemy.com implemented using Tailwind CSS aimed to replicate the behavior and core theme of Udemy",
-    date: "Oct, 2020",
-    image: udemy,
-    url: "https://medium.com/@renukaprasad.kb/udemy-clo-b749374ec2b9",
+      "In this blog I wrote about how the aqua animals and birds was affected by the pollution",
+    date: "Jun, 2022",
+    image: blog1,
+    url: "https://thoughts-venky.blogspot.com/2022/06/is-it-ocean-or-hell.html",
   },
   {
     id: 2,
-    title: "Udemy Backend Clone",
+    title: "Masai Journey",
     description:
-      "Dynamic search results fetched from the server to create a complete mimic of user experience along with backend integration",
-    date: "Nov, 2020",
-    image: udemy3,
-    url: "https://medium.com/@renukaprasad.kb/udemy-clone-2-0-4f1afb2b7f5e",
+      "In this blog I wrote how I had journey throught Masai school",
+    date: "5, 2022",
+    image: blog2,
+    url: "https://thoughts-venky.blogspot.com/2022/01/masai-experience.html",
   },
 ];

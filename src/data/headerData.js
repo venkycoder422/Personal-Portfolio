@@ -1,8 +1,8 @@
 import resume from "../assets/pdf/resume.pdf";
-import profileImg from "../assets/png/profileImg.png";
+import profileImg from "../assets/png/Venky.jpg";
 
 export const headerData = {
-  name: "Renuka Prasad",
+  name: "Venkatesulu",
   title: "Web Developer",
   desciption:
     "Feet on the ground, eyes at the sky, never stop dreaming, never till you die.",

@@ -1,5 +1,6 @@
 import gcp from "../assets/svg/skills/gcp.svg";
 import html from "../assets/svg/skills/html.svg";
+import json from '../assets/svg/skills/json.png'
 import photoshop from "../assets/svg/skills/photoshop.svg";
 import illustrator from "../assets/svg/skills/illustrator.svg";
 import docker from "../assets/svg/skills/docker.svg";
@@ -107,6 +108,8 @@ export const skillsImage = (skill) => {
       return nextJS;
     case "nuxt js":
       return nuxtJS;
+    case "json":
+      return json;
     case "react":
       return react;
     case "svelte":

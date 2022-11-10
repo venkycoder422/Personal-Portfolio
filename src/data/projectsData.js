@@ -11,51 +11,71 @@
 export const projectsData = [
   {
     id: 1,
-    projectName: "Udemy Clone",
+    projectName: "Bewakoof Clone",
     projectDesc: [
-      `A pixel to pixel visual replica of www.udemy.com with debouncing to minimize network requests`,
+      `Bewakoof is an Online Shopping site for Men and Women Clothing.`,
       [
-        "Created Product carousel",
-        "Responsive landing page",
-        "Major bug fixes",
+        "Created Navbar,Cart page",
+        "Women's shopping page",
+        "Sort and filter functionalities",
       ],
     ],
-    tags: ["JavaScript", "Tailwind", "HTML"],
-    code: "https://github.com/Renukote/udemy-clone-1",
-    demo: "https://aqueous-fortress-78543.herokuapp.com/",
+    tags: ["JavaScript", "CSS", "HTML"],
+    code: "https://github.com/venkycoder422/bewakoof.github.io",
+    demo: "https://venkycoder422.github.io/bewakoof.github.io/",
     image:
-      "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
+      "https://user-images.githubusercontent.com/76251822/200834257-405afcc9-1539-4717-9c0e-83f87fca9396.gif",
+  },
+
+  {
+    id: 4,
+    projectName: "Anthropologie Clone",
+    projectDesc: [
+      "Anthropologie is a website which sells women clothings and home furnitures.",
+      [
+        "Build landing page and cloths page",
+        "Sort and pagination functinality",
+        "Bug fixers",
+      ],
+    ],
+    tags: ["React","Redux","json"],
+    code: "https://github.com/venkycoder422/Anthropologie/tree/venky/project",
+    demo: "https://anthropologie1.netlify.app/",
+    image:
+      "https://user-images.githubusercontent.com/76251822/201025501-9c12886d-9f15-4ab1-a3cc-6ce11a129ac5.gif",
+  }
+  ,
+  {
+    id: 3,
+    projectName: "Pinterest Clone",
+    projectDesc: [
+      "The Pinterest is a photo and video sharing website.",
+      [
+        "Built navbar and pins page",
+        "Search functinality",
+        "Video feature for all ages",
+      ],
+    ],
+    tags: ["MongoDB", "Express", "React","Node JS"],
+    code: "https://github.com/venkycoder422/pinterest-clone",
+    demo: "https://pinterestclone1.netlify.app/",
+    image:
+      "https://user-images.githubusercontent.com/76251822/201025528-3b1f3dcf-dc0e-419c-ad11-ba84b5edbbdb.gif",
   },
   {
     id: 2,
-    projectName: "Udemy Backend Clone",
+    projectName: "Indian Recipes",
     projectDesc: [
-      "All round Backend integrated clone mimicing the user flow and behavior of Udemy.com",
-      ["Configured server and APIs", "Laid out data schema", "Major Bug fixes"],
+      "This website shares the ideas about recipes, cooking techniques and tools requirements for preparing recipes.",
+      ["Login, Sign Up pages", "Authorization", "Recipes page."],
     ],
-    tags: ["MongoDB", "Node JS", "Express"],
-    code: "https://github.com/Sachi4496/Udemy-Clone-Backend",
-    demo: "https://aqueous-fortress-78543.herokuapp.com/",
+    tags: ["React", "Redux", "json"],
+    code: "https://github.com/venkycoder422/Indian-food",
+    demo: "https://indianfood.vercel.app/",
     image:
-      "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-  },
-  {
-    id: 3,
-    projectName: "R + F Clone",
-    projectDesc: [
-      "A two page clone of Rodanandfields.com with fully a functional cart and product carousel",
-      [
-        "Built home and cart pages",
-        "Header drop down menu",
-        "Added functionality to cart",
-      ],
-    ],
-    tags: ["HTML", "JavaScript", "CSS"],
-    code: "https://github.com/Renukote/clone-rodanandfields.com",
-    demo: "https://renukote.github.io/clone-rodanandfields.com/homePage.html",
-    image:
-      "https://raw.githubusercontent.com/Renukote/clone-rodanandfields.com/master/rodan-and-fields-thumbnail.png",
-  },
+      "https://user-images.githubusercontent.com/76251822/201025515-050e6371-2ae9-41ee-92c2-6f824038b420.gif",
+  }
+  ,
 ];
 
 // Do not remove any fields.
