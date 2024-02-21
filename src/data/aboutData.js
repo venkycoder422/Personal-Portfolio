@@ -2,6 +2,6 @@ export const aboutData = {
   title: "Who am I?",
   description1: "My name is Venkatesulu, it also goes by Venkat.",
   description2:
-    "Driven by ambition and fuelled by determination, I am an emerging full stack web developer with a creative interest to build attractive websites. Shaped and moulded by Masai's immersive curriculum, I specialized in MERN stack and now willing to roll up my sleeves and get my hands dirty to work on and learn from meaningful projects.",
+    "I am an emerging full-stack web developer with one year of experience in building attractive websites. Shaped and molded by Masai's immersive curriculum, I specialized in the MERN stack and I am now willing to work on and learn from meaningful projects.",
   image: 1,
 };

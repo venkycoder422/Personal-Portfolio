@@ -66,7 +66,7 @@ export const projectsData = [
     id: 2,
     projectName: "Indian Recipes",
     projectDesc: [
-      "This website shares the ideas about recipes, cooking techniques and tools requirements for preparing recipes.",
+      "This was an individual project where I created a website about recipes, cooking techniques and ingredients.",
       ["Login, Sign Up pages", "Authorization", "Recipes page."],
     ],
     tags: ["React", "Redux", "json"],
@@ -74,8 +74,20 @@ export const projectsData = [
     demo: "https://indianfood.vercel.app/",
     image:
       "https://user-images.githubusercontent.com/76251822/201025515-050e6371-2ae9-41ee-92c2-6f824038b420.gif",
-  }
-  ,
+  },
+  {
+    id: 5,
+    projectName: "Waist Measurement",
+    projectDesc: [
+      "This website gives the waist size of a person.",
+      ["Home page,Check size."],
+    ],
+    tags: ["React", "Java","Spring Boot","MySQL","Azure"],
+    code: "https://github.com/venkycoder422/WaistMeasurementFrontend",
+    demo: "https://waist-measurement-frontend.vercel.app/",
+    image:
+      "https://github.com/venkycoder422/WaistMeasurementFrontend/assets/76251822/c6ab5993-b5af-433f-bd0f-94e7cc4ec72c",
+  },
 ];
 
 // Do not remove any fields.

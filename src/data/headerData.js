@@ -5,7 +5,7 @@ export const headerData = {
   name: "Venkatesulu",
   title: "Web Developer",
   desciption:
-    "Feet on the ground, eyes at the sky, never stop dreaming, never till you die.",
+    "",
   image: profileImg,
   resumePdf: resume,
 };

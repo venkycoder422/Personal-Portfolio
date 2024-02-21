@@ -10,7 +10,7 @@ import {
   // Testimonials,
   Blog,
   Education,
-  // Experience,
+  Experience,
   Contacts,
   Projects,
   // Services,
@@ -27,11 +27,11 @@ function Main() {
       <Skills />
       {/* <Services /> */}
       <Education />
+      <Experience />
       <Projects />
       <Blog />
       <Contacts />
       <Footer />
-      {/* <Experience /> */}
       {/* <Achievement /> */}
       {/* <Testimonials /> */}
     </div>

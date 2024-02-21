@@ -80,6 +80,7 @@ import dsa from "../assets/png/dsa.png";
 import postman from "../assets/png/postman.png";
 import redux from "../assets/svg/skills/redux.svg";
 import express from "../assets/svg/skills/expressjs.svg";
+import springboot from "../assets/svg/skills/springboot.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -244,6 +245,8 @@ export const skillsImage = (skill) => {
       return dsa;
     case "postman":
       return postman;
+    case 'spring boot':
+      return springboot;
     default:
       break;
   }

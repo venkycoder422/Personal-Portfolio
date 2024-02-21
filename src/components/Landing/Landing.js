@@ -168,7 +168,7 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href={`https://drive.google.com/file/d/1K9U8XbWRd-W07ENFlpfTnAw3k-kkSfMA/view?usp=share_link`}
+                  href={`https://drive.google.com/file/d/1ugaagWM28PRq35Iyv4qQ_dqvQIfeZx6w/view?usp=sharing`}
                   download="Venkatesulu_resume.pdf"
                   target="_blank"
                   rel="noreferrer"
